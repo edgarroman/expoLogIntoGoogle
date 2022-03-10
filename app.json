@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "google-login-test",
+    "slug": "google-login-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "google-login-test"
+}
